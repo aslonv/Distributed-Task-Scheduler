@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+celery
+redis
+jose
+passlib
+python-dotenv
