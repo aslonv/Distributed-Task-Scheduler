@@ -1,10 +1,8 @@
-# Advanced Distributed Task Scheduler
-
-This project is a scalable and secure task scheduling system built with FastAPI, Celery, Redis, Docker, Kubernetes, Prometheus, Grafana, Apache Kafka, and OAuth2/JWT.
-
 # Distributed Task Scheduler
 
-This project implements a simple distributed task scheduler using FastAPI. It provides an API for user authentication, task creation, and task status retrieval.
+This project implements a distributed task scheduler using FastAPI. It provides an API for user authentication, task creation, and task status retrieval.
+
+Along the course, as part of personal research and learning journey, I will technically advance the project.
 
 ## File Structure
 
